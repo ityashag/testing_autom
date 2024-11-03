@@ -1,0 +1,28 @@
+{
+  "name": "testing_autom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node app.js",
+  "test": "jest"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ityashag/testing_autom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ityashag/testing_autom/issues"
+  },
+  "homepage": "https://github.com/ityashag/testing_autom#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
